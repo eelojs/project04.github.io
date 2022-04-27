@@ -393,3 +393,8 @@ footer address{
     color: #de898e;
     margin-top: 20px;
 }
+.mark{
+    margin-top: -2%;
+    float: right;
+    margin-right: 25%;
+}
